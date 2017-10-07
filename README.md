@@ -5,4 +5,4 @@ Version 1.60
 jkaldkflkdlfkaldfakdff
 
 # Screen Shot
-![Night In The Museum](https://github.com/Jehoshaphatia/Night-In-The-Museum/master/Assets/Udacity/nMusem.PNG?raw=true)
+![Night In The Museum](https://drive.google.com/file/d/0B3jwWZcwBvaFeTd5dVIwSDN5TFE/view?usp=sharing)
