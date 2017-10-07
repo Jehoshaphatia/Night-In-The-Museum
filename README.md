@@ -1,8 +1,8 @@
-#GoogleVR SDK Used
+# GoogleVR SDK Used
 Version 1.60
 
-#Scene
+# Scene
 jkaldkflkdlfkaldfakdff
 
-#Screen Shot
-![Night In The Museum](https://photos.app.goo.gl/cm8M4HQuFRmYoXDG3)
+# Screen Shot
+![Night In The Museum](https://raw.github.com/username/repo/master/Assets/Udacity/nMusem.PNG?raw=true)
