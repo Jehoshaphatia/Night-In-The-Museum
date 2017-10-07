@@ -5,4 +5,4 @@ Version 1.60
 jkaldkflkdlfkaldfakdff
 
 # Screen Shot
-![Night In The Museum](https://www.dropbox.com/s/6kofhqj0ppzq1t6/nMusem_1.PNG?dl=0)
+![Night In The Museum](https://www.dropbox.com/s/6kofhqj0ppzq1t6/nMusem_1.PNG)
