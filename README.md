@@ -5,4 +5,4 @@ Version 1.60
 jkaldkflkdlfkaldfakdff
 
 # Screen Shot
-![Night In The Museum](https://raw.github.com/username/repo/master/Assets/Udacity/nMusem.PNG?raw=true)
+![Night In The Museum](https://github.com/username/repo/master/Assets/Udacity/nMusem.PNG?raw=true)
