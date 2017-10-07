@@ -1,5 +1,8 @@
-# GoogleVR SDK Used
+# Google VR SDK Version
 Version 1.60
+
+# Unity version
+Unity 2017.1.0p4
 
 # Scene
 jkaldkflkdlfkaldfakdff
