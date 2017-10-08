@@ -4,14 +4,14 @@ using System.Collections;
 public class StartPoint : MonoBehaviour
 {
     public GameObject player;
-    public GameObject startPoint, playPoint;
+    public GameObject playPoint;
 
     public bool playerWon = false;
 
     // Use this for initialization
     void Start()
     {
-      player.transform.position = startPoint.transform.position;
+      //player.transform.position = startPoint.transform.position;
     }
 
     // Update is called once per frame
