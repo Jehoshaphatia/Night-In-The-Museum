@@ -4,8 +4,6 @@ GVR Unity SDK v1.60.0
 # Unity version
 Unity 2017.1.0p4
 
-# Scene
-jkaldkflkdlfkaldfakdff
+# Scene Location
+The main scene can be found at Assets/Udacity/Scenes
 
-# Screen Shot
-![Night In The Museum](https://www.dropbox.com/home?preview=nMusem_1.PNG)
