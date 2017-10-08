@@ -1,5 +1,5 @@
 # Google VR SDK Version
-Version 1.60
+GVR Unity SDK v1.60.0
 
 # Unity version
 Unity 2017.1.0p4
