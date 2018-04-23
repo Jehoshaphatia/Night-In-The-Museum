@@ -1,4 +1,5 @@
 # Night-In-The-Museum - Udacity Nanodegree 
+![Alt text](/Screenshots/Screenshot.PNG?raw=true "Gameplay")
 
 ## Statement of Purpose
 > "Night at the museum is a mobile VR experience for users who want to learn more about the future of VR in an interactive fashion"
